@@ -1,0 +1,19 @@
+{
+  "name": "homes-hubot",
+  "version": "0.0.0",
+  "description": "Hubot for Homes.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrlannigan/homes-hubot.git"
+  },
+  "author": "Julian Lannigan <julian.lannigan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrlannigan/homes-hubot/issues"
+  },
+  "homepage": "https://github.com/mrlannigan/homes-hubot"
+}
