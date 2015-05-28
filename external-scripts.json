@@ -9,5 +9,6 @@
   "hubot-youtube",
   "hubot-hipchat-emoticons",
   "jobot-brain-file",
-  "hubot-standup-alarm"
+  "hubot-standup-alarm",
+  "hubot-google-hangouts"
 ]

@@ -4,6 +4,7 @@ set -e
 
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
 export FILE_BRAIN_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/../"
+export HUBOT_GOOGLE_HANGOUTS_DOMAIN=dominionenterprises.com
 
 if [ -f "./.botrc" ]; then
   . ./.botrc
